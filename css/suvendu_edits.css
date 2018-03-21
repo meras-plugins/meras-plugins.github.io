@@ -17,3 +17,8 @@
 .gtco-cover .display-t, .gtco-cover .display-tc {
   height: 400px;
 }
+@media screen and (max-width: 768px) {
+  #gtco-header .display-tc h1, #gtco-counter .display-tc h1, .gtco-cover .display-tc h1 {
+    margin-bottom: 176px;
+}
+}
