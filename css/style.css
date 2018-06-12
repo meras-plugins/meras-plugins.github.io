@@ -422,7 +422,7 @@ h1, h2, h3, h4, h5, h6, figure {
   }
 }
 .gtco-cover.gtco-cover-xs {
-  height: 500px;
+  height: 680px;
 }
 @media screen and (max-width: 768px) {
   .gtco-cover.gtco-cover-xs {
@@ -1389,6 +1389,7 @@ form label {
   height: 54px;
   font-size: 18px;
   font-weight: 300;
+  background-color: aliceblue;
 }
 .form-control:active, .form-control:focus {
   outline: none;
